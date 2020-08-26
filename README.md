@@ -1,6 +1,6 @@
 ### Hey, it's me!
 
-I'm Austin, and I believe in making good data and tech accessible to organizations who directly service our most vital societal needs. Through volunteer work with a [Hands On Nashville](https://www.hon.org/), I've seen firsthand the potential benefit of benevolent code in organizations working to address issues like emergency response, social aid, civic engagement, and the like. It's with that passion in mind that I enrolled at Nashville Software School, to gain the tools and knowledge necessary to take part directly in creating code that helps build better communities. 
+I'm Austin, and I believe in making good data and tech accessible to organizations who directly service our most vital societal needs. Through volunteer work with a [Hands On Nashville](https://www.hon.org/), I've seen firsthand the potential benefit of benevolent code and access to data in organizations working to address issues like emergency response, social aid, civic engagement, and the like. It's with that passion in mind that I enrolled at Nashville Software School, to gain the tools and knowledge necessary to take part directly in creating code that helps build better communities. 
 
 [See more about my career and educational history on my LinkedIn!](https://www.linkedin.com/in/austinphy/)
 
