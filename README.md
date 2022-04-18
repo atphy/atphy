@@ -4,8 +4,6 @@ I'm Austin, and I believe in making good data and tech accessible to organizatio
 
 [See more about my career and educational history on my LinkedIn!](https://www.linkedin.com/in/austinphy/)
 
-[If I'm tweeting, I'm tweeting here.](https://twitter.com/atphydotjpeg)
-
 <!--
 **atphy/atphy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
